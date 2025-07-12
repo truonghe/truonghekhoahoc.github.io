@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "VSSS"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "truonghe"
@@ -159,8 +159,20 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
-
+navigation:
+  - title: Home
+    url: /
+  - title: Program
+    url: /Program
+  - title: Application
+    url: /Application
+  - title: About Us
+    url: /AboutUs
+  - title: Others
+    url: /Others
+  - title: Contact
+    url: /Contacts
+    
 # Reading Files
 include:
   - .htaccess
