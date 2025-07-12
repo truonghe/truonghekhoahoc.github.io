@@ -315,8 +315,10 @@ defaults:
   # _posts
   - scope:
       path: "pages"
-      type: posts
+      type: docs
     values:
+      sidebar:
+        nav: docs
       layout: single
       author_profile: true
       read_time: true

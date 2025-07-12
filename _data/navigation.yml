@@ -1,46 +1,87 @@
 # main links
 main:
-    - title: "Home"
-      url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    - title: "Program"
-      url: /program/
-      children:
-        - title: "Timeline"
-          url: /pages/program/timeline/
-        - title: "Venue"
-          url: /pages/program/venue/
-    - title: "Application"
-      url: /pages/application/
-      children:
-        - title: "Apply Now!"
-          url: /pages/application/apply-now.md/
-        - title: "Eligibility"
-          url: /pages/application/eligibility/
-        - title: "Prepare for Apply"
-          url: /pages/application/prepare-for-apply/
-        - title: "Important dates"
-          url: /pages/application/important-dates/
-    - title: "About Us"
-      url: /pages/about-us/
-      children:
-          - title: "VSSS"
-            url: /pages/about-us/VSSS/
-          - title: "Rencontres du Vietnam"
-            url: /pages/about-us/rencontres-du-ietnam/
-          - title: "Organizers"
-            url: /pages/about-us/organizers
-    - title: "Others"
-      url: /pages/others/
-      children:
-          - title: "FAQs"
-            url: /pages/others/FAQs/
-          - title: "News"
-            url: /pages/others/news/
-          - title: "Travel Guide"
-            url: /pages/others/travel-guide/
-          - title: "Financial Support"
-            url: /pages/others/financial-support/
-    - title: "Contact"
-      url: /contact/
-    - tile: "Apply!"
-      url: /apply/
+  - title: "Home"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Program"
+    url: /program/
+    children:
+      - title: "Timeline"
+        url: /pages/program/timeline/
+      - title: "Venue"
+        url: /pages/program/venue/
+  - title: "Application"
+    url: /pages/application/
+    children:
+      - title: "Apply Now!"
+        url: /pages/application/apply-now.md/
+      - title: "Eligibility"
+        url: /pages/application/eligibility/
+      - title: "Prepare for Apply"
+        url: /pages/application/prepare-for-apply/
+      - title: "Important dates"
+        url: /pages/application/important-dates.md/
+  - title: "About Us"
+    url: /pages/about-us/
+    children:
+      - title: "VSSS"
+        url: /pages/about-us/VSSS/
+      - title: "Rencontres du Vietnam"
+        url: /pages/about-us/rencontres-du-ietnam/
+      - title: "Organizers"
+        url: /pages/about-us/organizers
+  - title: "Others"
+    url: /pages/others/
+    children:
+      - title: "FAQs"
+        url: /pages/others/FAQs/
+      - title: "News"
+        url: /pages/others/news/
+      - title: "Travel Guide"
+        url: /pages/others/travel-guide/
+      - title: "Financial Support"
+        url: /pages/others/financial-support/
+  - title: "Contact"
+    url: /contact/
+  - tile: "Apply!"
+    url: /apply/
+docs:
+  - title: "Home"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Program"
+    children:
+      - title: "Timeline"
+        url: /pages/program/timeline/
+      - title: "Venue"
+        url: /pages/program/venue/
+  - title: "Application"
+    children:
+      - title: "Apply Now!"
+        url: /pages/application/apply-now.md/
+      - title: "Eligibility"
+        url: /pages/application/eligibility/
+      - title: "Prepare for Apply"
+        url: /pages/application/prepare-for-apply/
+      - title: "Important dates"
+        url: /pages/application/important-dates.md/
+  - title: "About Us"
+    children:
+      - title: "VSSS"
+        url: /pages/about-us/VSSS/
+      - title: "Rencontres du Vietnam"
+        url: /pages/about-us/rencontres-du-ietnam/
+      - title: "Organizers"
+        url: /pages/about-us/organizers
+  - title: "Others"
+    children:
+      - title: "FAQs"
+        url: /pages/others/FAQs/
+      - title: "News"
+        url: /pages/others/news/
+      - title: "Travel Guide"
+        url: /pages/others/travel-guide/
+      - title: "Financial Support"
+        url: /pages/others/financial-support/
+  - title: "Contact"
+    url: /contact/
+  - tile: "Apply!"
+    url: /apply/
