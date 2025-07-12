@@ -2,6 +2,7 @@
 layout: single
 title: "Venue"
 permalink: /program/venue/
+parent: "Program"
 ---
 
 ## VENUE

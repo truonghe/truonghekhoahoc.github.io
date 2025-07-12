@@ -1,5 +1,5 @@
 # example navigation
-foo:
+navigation:
   - title: "Parent Link 1"
     url: /parent-1-page-url/
     children:
