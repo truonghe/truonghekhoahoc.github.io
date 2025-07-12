@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Schedule"
-permalink: /program/schedule/
+title: "Venue"
+permalink: /program/venue/
 ---
 
 ## Lịch trình sự kiện
