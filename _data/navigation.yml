@@ -6,15 +6,40 @@ main:
     url: /program/
     children:
       - title: "Timeline"
-        url: /program/timeline/
+        url: /pages/program/timeline/
       - title: "Venue"
-        url: /program/venue/
+        url: /pages/program/venue/
   - title: "Application"
-    url: /application/
+    url: /pages/application/
+    children:
+      - title: "Apply Now!"
+        url: /pages/application/apply-now.md/
+      - title: "Eligibility"
+        url: /pages/application/eligibility/
+      - title: "Prepare for Apply"
+        url: /pages/application/prepare-for-apply/
+      - title: "Important dates"
+        url: /pages/application/important-dates/
   - title: "About Us"
-    url: /about-us/
+    url: /pages/about-us/
+    children:
+        - title: "VSSS"
+          url: /pages/about-us/VSSS/
+        - title: "Rencontres du Vietnam"
+          url: /pages/about-us/rencontres-du-ietnam/
+        - title: "Organizers"
+          url: /pages/about-us/organizers
   - title: "Others"
-    url: /others/
+    url: /pages/others/
+    children:
+        - title: "FAQs"
+          url: /pages/others/FAQs/
+        - title: "News"
+          url: /pages/others/news/
+        - title: "Travel Guide"
+          url: /pages/others/travel-guide/
+        - title: "Financial Support"
+          url: /pages/others/financial-support/
   - title: "Contact"
     url: /contact/
   - tile: "Apply!"

@@ -4,7 +4,7 @@ title: "Venue"
 permalink: /program/venue/
 ---
 
-## Lịch trình sự kiện
+## VENUE
 
 The conference will be organized at the ICISE conference center by Rencontres du Vietnam, a scientific non-profit organization. The ICISE conference center is located at a beautiful beach in Vietnam, thus allowing participants also to enjoy nature and culture while having intesting scientific discussions. Information can be found here: https://icisequynhon.com.
 
