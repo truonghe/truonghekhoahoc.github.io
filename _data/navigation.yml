@@ -1,5 +1,5 @@
 # main links
-main:
+navigation:
   - title: "Home"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Program"
