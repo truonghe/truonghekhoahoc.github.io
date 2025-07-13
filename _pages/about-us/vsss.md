@@ -114,5 +114,5 @@ permalink: /about-us/VSSS/
             After nine summer schools, the VSSS received a large number of positive feedback from the participants who praised our teaching program and teaching method, as well as encouraged the organizers to keep developing the summer school. This feedback is crucial for the organizers to keep optimizing the teaching program at the future summer schools. Several alumni, who reached certain successes in their study, were invited to present at the summer schools as typical experiences for the present participants.
         </p>
     </div>
-    <img src="vsss_1.jpg" alt="Students and lecturers at the 6th VSSS" class="home-image">
+    <img src="/_pages/about-us/vsss_1.jpg" alt="Students and lecturers at the 6th VSSS" class="home-image">
 </div>
