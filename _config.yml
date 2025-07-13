@@ -327,22 +327,22 @@ defaults:
       related: true
 
 # Enable header navigation
-header:
-  navigation: true
-
-# Define the navigation structure
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Program"
-    url: /program/
-    children:
-      - title: "Timeline"
-        url: /program/timeline/
-      - title: "Venue"
-        url: /program/venue/
-  - title: "About"
-    url: /about/
-  - title: "Apply"
-    url: /apply/
+#header:
+#  navigation: true
+#
+## Define the navigation structure
+#navigation:
+#  - title: "Home"
+#    url: /
+#  - title: "Program"
+#    url: /program/
+#    children:
+#      - title: "Timeline"
+#        url: /program/timeline/
+#      - title: "Venue"
+#        url: /program/venue/
+#  - title: "About"
+#    url: /about/
+#  - title: "Apply"
+#    url: /apply/
 
