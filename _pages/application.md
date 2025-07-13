@@ -1,7 +1,8 @@
 ---
-layout: single
 title: "Application"
+layout: category
 permalink: /application/
+author_profile: true
 ---
 
 - To submit your application: click [Apply Now!]({{ page.url }}apply-now/)
