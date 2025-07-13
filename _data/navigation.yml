@@ -31,11 +31,11 @@ main:
     url: /about-us/
     children:
       - title: "VSSS"
-        url: /application/vsss/
+        url: /about-us/vsss/
       - title: "Rencontres du Vietnam"
-        url: /application/rencontres-du-vietnam/
+        url: /about-us/rencontres-du-vietnam/
       - title: "Organizers"
-        url: /application/organizers/
+        url: /about-us/organizers/
   - title: "Others"
     url: /others/
   - title: "Contact"
