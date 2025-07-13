@@ -159,7 +159,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    
+
 # Reading Files
 include:
   - .htaccess
@@ -315,11 +315,34 @@ defaults:
   # _posts
   - scope:
       path: "pages"
-      type: posts
+      type: docs
     values:
+      sidebar:
+        nav: docs
       layout: single
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+
+# Enable header navigation
+header:
+  navigation: true
+
+# Define the navigation structure
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Program"
+    url: /program/
+    children:
+      - title: "Timeline"
+        url: /program/timeline/
+      - title: "Venue"
+        url: /program/venue/
+  - title: "About"
+    url: /about/
+  - title: "Apply"
+    url: /apply/
+
