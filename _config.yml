@@ -115,3 +115,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+themes:
+  highlight:
+    light: github
+    dark: native
+  repo:
+    light: default
+    dark: dark
+  trophies:
+    enabled: true
+    light: flat
+    dark: gitdimmed
+
