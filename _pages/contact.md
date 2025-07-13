@@ -1,6 +1,6 @@
 ---
-permalink: /about-us/
-title: "About Us"
+permalink: /contact/
+title: "Contact"
 ---
 
 You can find us on Facebook at [Vietnam (Summer) School of Science](https://www.facebook.com/truongkhoahocvietnam).

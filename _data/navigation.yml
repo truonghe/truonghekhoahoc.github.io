@@ -29,6 +29,13 @@ main:
           url: /application/prepare-for-apply/
   - title: "About Us"
     url: /about-us/
+    children:
+      - title: "VSSS"
+        url: /about-us/vsss/
+      - title: "Rencontres du Vietnam"
+        url: /about-us/rencontres-du-vietnam/
+      - title: "Organizers"
+        url: /about-us/organizers/
   - title: "Others"
     url: /others/
   - title: "Contact"
