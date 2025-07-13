@@ -18,6 +18,15 @@ main:
         url: /program/venue/
   - title: "Application"
     url: /application/
+    children:
+        - title: "Apply now!"
+          url: /application/application/
+        - title: "Eligibility"
+          url: /application/eligibility/
+        - title: "Important dates"
+          url: /application/important-dates/
+        - title: "Prepare for Apply"
+          url: /application/prepare-for-apply/
   - title: "About Us"
     url: /about-us/
   - title: "Others"
