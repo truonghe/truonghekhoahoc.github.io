@@ -93,7 +93,7 @@ permalink: /home/
     <a href="/faqs/" class="nav-button">FAQs</a>
   </div>
 
-  <img src="home.jpg" alt="12th Vietnam Summer School of Science" class="home-image">
+  <img src="/_pages/home/home.jpg" alt="12th Vietnam Summer School of Science" class="home-image">
 
   <div class="section">
     <h2>
@@ -102,7 +102,7 @@ permalink: /home/
     <p>
          The Vietnam Summer School of Science was established by a network of Vietnamese scientists working overseas to share the magic of science and inspire young students in their home country.
         </p>
-    <img src="ourjourney.jpeg" alt="Students and lecturers at a past VSSS event">
+    <img src="/_pages/home/ourjourney.jpeg" alt="Students and lecturers at a past VSSS event">
     <div class="section-button">
         <a href="/about-us/VSSS/" class="nav-button">More About VSSS</a>
     </div>
