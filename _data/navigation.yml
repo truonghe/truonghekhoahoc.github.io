@@ -31,7 +31,7 @@ main:
     url: /about-us/
     children:
       - title: "VSSS"
-        url: /about-us/vsss/
+        url: /about-us/VSSS/
       - title: "Rencontres du Vietnam"
         url: /about-us/rencontres-du-vietnam/
       - title: "Organizers"
