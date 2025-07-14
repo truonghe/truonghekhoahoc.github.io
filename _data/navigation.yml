@@ -38,5 +38,14 @@ main:
         url: /about-us/organizers/
   - title: "Others"
     url: /others/
+    children:
+      - title: "FAQs"
+        url: /others/faqs/
+      - title: "Financial Support"
+        url: /others/financial-support/
+      - title: "News"
+        url: /others/news/
+      - title: "Travel Guide"
+        url: /others/travel-guide/
   - title: "Contact"
     url: /contact/
