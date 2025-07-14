@@ -38,8 +38,8 @@ header:
   navigation: true
 include:
   - _pages
-#atom_feed:
-#  hide: true
+atom_feed:
+  hide: true
 footer_custom: true
 
 # Exclude from processing.
@@ -76,6 +76,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://truonghekhoahoc.github.io/"
+    - label: "Fanpage"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/truongkhoahocvietnam/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
