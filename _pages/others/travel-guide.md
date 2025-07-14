@@ -276,14 +276,14 @@ permalink: /others/travel-guide/
                    Thông tin: Nằm ngay gần quảng trường thành phố và bãi biển Quy Nhơn, khách sạn Phương Đông là một lựa chọn tốt với chi phí rất phù hợp.
                 </p>
                 <p>
-                   2.4. <a href = "https://www.google.com/maps/place/M%C6%B0%E1%BB%9Dng+Thanh+Quy+Nhon+Hotel/@13.7720769,109.2388619,17z/data=!3m1!4b1!4m9!3m8!1s0x316f6c63250775a7:0xa880a4e3e56c7806!5m2!4m1!1i2!8m2!3d13.7720769!4d109.2388619!16s%2Fg%2F12hkbf13m?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"><u>Mira Eco Hotel</u></a> <br>
+                   2.4. <a href = "https://www.google.com/maps/place/Kh%C3%A1ch+S%E1%BA%A1n+Quy+Nh%C6%A1n+G%E1%BA%A7n+Bi%E1%BB%83n+-+Kh%C3%A1ch+s%E1%BA%A1n+Mira+Eco/@13.7531886,109.1964321,15z/data=!4m11!3m10!1s0x316fc568063c396b:0xbd5c9afd383c4553!5m3!1s2024-05-04!4m1!1i2!8m2!3d13.7531886!4d109.2154865!15sCg5NaXJhIEVjbyBIb3RlbJIBBWhvdGVs4AEA!16s%2Fg%2F11n7hqmj69?coh=210790&entry=tts"><u>Mira Eco Hotel</u></a> <br>
                    Địa chỉ: 24 Nguyễn Như Đỗ, Nguyễn Văn Cừ, Quy Nhơn, Bình Định<br>
                    SDT: 0978 160 017<br>
                    Giá phòng đôi trung bình: 250.000 – 400.000 VND/phòng/đêm<br>
                    Thông tin: Nằm gần ngã ba Nguyễn Như Đỗ và An Dương Vương, Mira Eco là một khách sạn tuy nhỏ nhưng rất đặc biệt khi phát triển theo hướng thân thiện với môi trường với rất nhiều dịch vụ độc lạ như trải nghiệm đồ ăn hữu cơ, dịch vụ dưỡng sinh, hồ bơi thiên nhiên. 
                 </p>
                 <p>
-                   2.5. <a href = "https://www.google.com/maps/place/Kh%C3%A1ch+S%E1%BA%A1n+Quy+Nh%C6%A1n+G%E1%BA%A7n+Bi%E1%BB%83n+-+Kh%C3%A1ch+s%E1%BA%A1n+Mira+Eco/@13.7531886,109.1964321,15z/data=!4m11!3m10!1s0x316fc568063c396b:0xbd5c9afd383c4553!5m3!1s2024-05-04!4m1!1i2!8m2!3d13.7531886!4d109.2154865!15sCg5NaXJhIEVjbyBIb3RlbJIBBWhvdGVs4AEA!16s%2Fg%2F11n7hqmj69?coh=210790&entry=tts"><u>Quy Nhon Center Hotel</u></a> <br>
+                   2.5. <a href = "https://maps.app.goo.gl/fvuhQs5ao76nYydK6"><u>Quy Nhon Center Hotel</u></a> <br>
                    Địa chỉ: 51 Hoàng Diệu, Trần Phú, Quy Nhơn, Bình Định<br>
                    SDT: 0799 990 907<br>
                    Giá phòng đôi trung bình: 150.000 – 500.000 VND/phòng/đêm<br>
