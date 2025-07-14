@@ -1,12 +1,4 @@
 main:
-#  - title: "Home"
-#    url: /homes/
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
-#  - title: "About"
-#    url: /about/
   - title: "Home"
     url: /
   - title: "Program"
