@@ -38,8 +38,8 @@ header:
   navigation: true
 include:
   - _pages
-atom_feed:
-  hide: true
+#atom_feed:
+#  hide: true
 footer_custom: true
 
 # Exclude from processing.
@@ -59,7 +59,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
