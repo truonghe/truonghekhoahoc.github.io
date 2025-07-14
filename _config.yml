@@ -39,7 +39,7 @@ include:
   - _pages
 atom_feed:
   hide: true
-
+footer_custom: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
