@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Home"
-permalink: /home/
+permalink: /
 ---
 
 <style>
