@@ -90,7 +90,7 @@ permalink: /home/
 
   <div>
     <a href="/about-us/VSSS/" class="nav-button">About VSSS</a>
-    <a href="/faqs/" class="nav-button">FAQs</a>
+    <a href="/others/faqs/" class="nav-button">FAQs</a>
   </div>
 
   <img src="/_pages/home/home.jpg" alt="12th Vietnam Summer School of Science" class="home-image">

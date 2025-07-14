@@ -9,6 +9,6 @@ The ICISE conference center was founded in 2013, together with the International
 
 Address: QL1D, Ghenh Rang, Quy Nhon City, Binh Dinh Province, Vietnam
 
-Website: http://www.icisequynhon.com/
+Website: [http://www.icisequynhon.com/](http://www.icisequynhon.com/) 
 
-Location on Google map: 
+Location on Google map: [please click herre](https://maps.app.goo.gl/NVcaszk7Nwf3tKiU9)
