@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Organizers"
-permalink: /about-us/organizers/
+title: "Others"
+permalink: /vsss2025/others/
 ---
 
 <style>
@@ -73,15 +73,52 @@ permalink: /about-us/organizers/
      margin-right: 5px;      /* Add some space after the number */
      margin-bottom: 1.5em
 }
+.faq-container {
+  max-width: 800px;
+  margin: 20px auto;
+  border: 1px solid #eee;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.faq-item {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #534c4cff;
+  padding-bottom: 15px;
+}
+.faq-item:last-child {
+  border-bottom: none; /* No border for the last item */
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.faq-question {
+  font-weight: bold;
+  cursor: pointer;
+  padding: 10px 0;
+  justify-content: space-between; 
+  align-items: center;
+}
 </style>
 
+
 <div class="home-container">
-    <div class = "main-heading" >
-        Organizers
-    </div>
-    <div class = "section">
-        <p>
-            TBA.
-        </p>
+    <h1 class = "main-heading" >
+        Others
+    </h1>
+    <p>
+        Please click on the following topics to explore more detailed information.
+    </p>
+    <div>
+        <a href="/others/faqs/" class="nav-button">
+            FAQs
+        </a>
+        <a href="/others/news/" class="nav-button">
+            News
+        </a>
+        <a href="/others/travel-guide/" class="nav-button">
+            Travel Guide
+        </a>
+        <a href="/others/financial-support/" class="nav-button">
+            Financial Support
+        </a>
     </div>
 </div>

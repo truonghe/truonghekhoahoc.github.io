@@ -1,7 +1,7 @@
 ---
 title: "Application"
 layout: category
-permalink: /application/
+permalink: /vsss2025/application/
 author_profile: true
 ---
 

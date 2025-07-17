@@ -1,7 +1,8 @@
 ---
-layout: single
-title: "About Us"
-permalink: /about-us/
+layout: page
+title: "Home"
+permalink: /vsss2025/
+author_profile: true
 ---
 
 <style>
@@ -66,25 +67,44 @@ permalink: /about-us/
   .numbered-list {
      list-style: none;          /* Remove default numbering */
      counter-reset: my-counter; /* Initialize a counter */
-}
-.numbered-list li::before {
+  }
+  .numbered-list li::before {
      counter-increment: my-counter; /* Increment the counter for each list item */
      content: "(" counter(my-counter) ") "; /* Display the counter with parentheses */
      margin-right: 5px;      /* Add some space after the number */
-     margin-bottom: 1.5em
-}
+     margin-bottom: 1.5em;
+  }
 </style>
 
 <div class="home-container">
-    <h1 class = "main-heading" >
-         About Us
-    </h1>
+
+  <p class="sub-heading">
+     12th Vietnam Summer School of Science
+  </p>
+  <h1 class="main-heading">
+     Embrace the Unknown
+  </h1>
+  <p class="date-location">
+     ICISE, Quy Nhon, Binh Dinh<br>August 5-8, 2025
+  </p>
+
+  <div>
+    <a href="/vsss2025/about-us/VSSS/" class="nav-button">About VSSS</a>
+    <a href="/vsss2025/others/faqs/" class="nav-button">FAQs</a>
+  </div>
+
+  <img src="/_pages/2025/home/home.jpg" alt="12th Vietnam Summer School of Science" class="home-image">
+
+  <div class="section">
+    <h2>
+         Our Journey
+    </h2>
     <p>
-         Please click on each sub-button to find out more about our motivation, history, and VSSS organizers.
+         The Vietnam Summer School of Science was established by a network of Vietnamese scientists working overseas to share the magic of science and inspire young students in their home country.
     </p>
-    <div>
-         <a href="/about-us/VSSS/" class="nav-button">VSSS</a>
-         <a href="/about-us/rencontres-du-vietnam/" class="nav-button">Rencontres du Vietnam</a>
-         <a href="/about-us/organizers/" class="nav-button">Organizers</a>
+    <img src="/_pages/2025/home/ourjourney.jpeg" alt="Students and lecturers at a past VSSS event">
+    <div class="section-button">
+        <a href="/vsss2025/about-us/VSSS/" class="nav-button">More About VSSS</a>
     </div>
+  </div>
 </div>

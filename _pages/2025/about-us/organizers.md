@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "News"
-permalink: /others/news/
+title: "Organizers"
+permalink: /vsss2025/about-us/organizers/
 ---
 
 <style>
@@ -73,40 +73,15 @@ permalink: /others/news/
      margin-right: 5px;      /* Add some space after the number */
      margin-bottom: 1.5em
 }
-.faq-container {
-  max-width: 800px;
-  margin: 20px auto;
-  border: 1px solid #eee;
-  padding: 20px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-.faq-item {
-  margin-bottom: 15px;
-  border-bottom: 1px solid #534c4cff;
-  padding-bottom: 15px;
-}
-.faq-item:last-child {
-  border-bottom: none; /* No border for the last item */
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-.faq-question {
-  font-weight: bold;
-  cursor: pointer;
-  padding: 10px 0;
-  justify-content: space-between; 
-  align-items: center;
-}
 </style>
 
-
 <div class="home-container">
-    <h1 class = "main-heading" >
+    <div class = "main-heading" >
         Organizers
-    </h1>
+    </div>
     <div class = "section">
         <p>
-            Coming soon. Please visit this site again soon.
+            TBA.
         </p>
     </div>
 </div>

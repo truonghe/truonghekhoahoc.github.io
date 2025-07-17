@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Financial Support"
-permalink: /others/financial-support/
+title: "News"
+permalink: /vsss2025/others/news/
 ---
 
 <style>
@@ -102,32 +102,11 @@ permalink: /others/financial-support/
 
 <div class="home-container">
     <h1 class = "main-heading" >
-        Financial Support
+        Organizers
     </h1>
     <div class = "section">
         <p>
-            If you are accepted to be a participant at our summer school, you will be awarded a scholarship valued at 5.000.000 VND. The scholarship is awarded in the form of allowances, not in cash. It will cover:
-        </p>
-        <ul>
-            <li>Summer school course fees for venue, lecturers, registration</li>
-            <li>Meals (lunch, dinner and snack) for 04 days of summer schools</li>
-        </ul>
-        <p>
-            We will NOT cover (i.e. you have to pay yourself):
-        </p>
-        <ul>
-            <li>Travel from your residential address to Quy Nhon city</li>
-            <li>Your accommodation during the summer school</li>
-            <li>Other unexpected and personal fees</li>
-        </ul>
-        <p><em>
-            Some (limited number) official students will be awarded a scholarship:
-        </em></p>
-        <ul>
-            <li><strong>Some (limited) students, who are far from the V(S)SS’12 location and are in financial difficulty, will be selected to award a scholarship that will cover their travel and/or accommodation depending on their situation.</strong></li>
-        </ul>
-        <p>
-            Please indicate in the application form if you need financial support for traveling and/or accommodation (and remember to attach a letter to explain why you need, and why you deserve the scholarship). But remember that if you request a scholarship, the chance for you to win admission will be less.
+            Coming soon. Please visit this site again soon.
         </p>
     </div>
 </div>
