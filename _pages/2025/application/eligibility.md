@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Eligibility"
-permalink: /application/eligibility/
+permalink: /vsss2025/application/eligibility/
 ---
 
 <style>
@@ -99,5 +99,6 @@ permalink: /application/eligibility/
     <p><strong><em>
          All documents must be prepared in the format of PDF, DOC, or DOCX.</em></strong></p>
     <p>
-         When you are ready, please submit your application on this website via the link <a href="/application/apply-now/"><u>here</u></a>. We will start receiving applications on <strong>May 25th, 2025</strong>, and the application system will close after <strong>June 14th, 2025</strong>. </p>
+         When you are ready, please submit your application on this website via the link <a href="/vsss2025/application/apply-now/"><u>here</u></a>. We will start receiving applications on <strong>May 25th, 2025</strong>, and the application system will close after <strong>June 14th, 2025</strong>. </p>
+</div>
 </div>

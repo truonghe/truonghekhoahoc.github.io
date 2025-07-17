@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Home"
-permalink: /
+permalink: /vsss2025/
 author_profile: true
 ---
 
@@ -89,11 +89,11 @@ author_profile: true
   </p>
 
   <div>
-    <a href="/about-us/VSSS/" class="nav-button">About VSSS</a>
-    <a href="/others/faqs/" class="nav-button">FAQs</a>
+    <a href="/vsss2025/about-us/VSSS/" class="nav-button">About VSSS</a>
+    <a href="/vsss2025/others/faqs/" class="nav-button">FAQs</a>
   </div>
 
-  <img src="/_pages/home/home.jpg" alt="12th Vietnam Summer School of Science" class="home-image">
+  <img src="/_pages/2025/home/home.jpg" alt="12th Vietnam Summer School of Science" class="home-image">
 
   <div class="section">
     <h2>
@@ -102,9 +102,9 @@ author_profile: true
     <p>
          The Vietnam Summer School of Science was established by a network of Vietnamese scientists working overseas to share the magic of science and inspire young students in their home country.
     </p>
-    <img src="/_pages/home/ourjourney.jpeg" alt="Students and lecturers at a past VSSS event">
+    <img src="/_pages/2025/home/ourjourney.jpeg" alt="Students and lecturers at a past VSSS event">
     <div class="section-button">
-        <a href="/about-us/VSSS/" class="nav-button">More About VSSS</a>
+        <a href="/vsss2025/about-us/VSSS/" class="nav-button">More About VSSS</a>
     </div>
   </div>
 </div>

@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /vsss2025/contact/
 title: "Contact"
 ---
 

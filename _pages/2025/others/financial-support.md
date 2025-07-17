@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Financial Support"
-permalink: /others/financial-support/
+permalink: /vsss2025/others/financial-support/
 ---
 
 <style>

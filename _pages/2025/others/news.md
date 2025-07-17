@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "News"
-permalink: /others/news/
+permalink: /vsss2025/others/news/
 ---
 
 <style>

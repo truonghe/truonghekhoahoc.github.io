@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Apply Now !"
-permalink: /application/apply-now/
+permalink: /vsss2025/application/apply-now/
 ---
 
 <style>
