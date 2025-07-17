@@ -1,6 +1,6 @@
 main:
   - title: "VSSS2025"
-    url: /2025/
+    url: /vsss2025/
     children:
       - title: "Home"
         url: /

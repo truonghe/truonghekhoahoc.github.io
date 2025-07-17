@@ -79,7 +79,7 @@ permalink: /vsss2025/about-us/VSSS/
     <div class = "main-heading" >
         VSSS
     </div>
-    <img src="/_pages/2025/about-usut-us/ourjourney.jpeg" alt="Students and lecturers at a past VSSS event" class="home-image">
+    <img src="/_pages/2025/about-us/ourjourney.jpeg" alt="Students and lecturers at a past VSSS event" class="home-image">
     <div class = "main-heading" >
         Motivation
     </div>
